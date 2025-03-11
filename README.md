@@ -1,4 +1,8 @@
-# 👋 ¡Hola! Soy Arce Castellanos Juan Carlos  
+# 👋 ¡Hola! Soy Arce Castellanos Juan Carlos 
+<p align="center">
+  <img src="LogoCENYCA.jpeg" alt="Logo CENYCA" width="400"/>
+</p>
+
 **🎓 Universidad:** CENYCA UNIVERSIDAD  
 **💼 Carrera:** Ingeniería en Sistemas Computacionales 
 
