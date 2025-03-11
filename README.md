@@ -7,9 +7,9 @@
 **💼 Carrera:** Ingeniería en Sistemas Computacionales 
 
 ## 🧑‍💻 Lenguajes de Programación Utilizados
-- C++
-- C#
-- Java
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="Java" width="15"/> Java
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/188px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="20"/> C++
+- <img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="C##" width="20"/> C#
 
 ## ⚙️ Programas y Herramientas Utilizadas
 - **Compilador de C++**  
