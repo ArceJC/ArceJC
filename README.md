@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Arce Castellanos Juan Carlos  
 **🎓 Universidad:** CENYCA UNIVERSIDAD  
 **💼 Carrera:** Ingeniería en Sistemas Computacionales 
+![Logo CENYCA](LogoCENYCA.JPEG)
 
 ## 🧑‍💻 Lenguajes de Programación Utilizados
 - C++
