@@ -19,3 +19,8 @@
 ## 📩 Contacto
 - **Correo:** juanarce45@cenyca.edu.mx
 
+## 🗯️ Proyecto a Realizar
+**Proyecto:** diseñar e implementar una aplicación web gamificada para mejorar el aprendizaje de matemáticas en estudiantes de nivel básico.
+
+
+
