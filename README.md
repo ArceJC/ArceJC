@@ -1,16 +1,13 @@
-## Hi there 👋
+**👤 Nombre:** Arce Castellanos Juan Carlos  
+**🎓 Universidad:** CENYCA UNIVERSIDAD  
+**💼 Carrera:** Ingeniería en Sistemas Computacionales 
 
-<!--
-**ArceJC/ArceJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Lenguajes de Programación Utilizados
+- C++
+- C#
+- Java
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Programas y Herramientas Utilizadas
+- **Compilador de C++**  
+- **Android Studio** para el desarrollo de aplicaciones móviles en Java  
+- **SQL** para la gestión de bases de datos  
