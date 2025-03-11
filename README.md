@@ -10,4 +10,8 @@
 ## ⚙️ Programas y Herramientas Utilizadas
 - **Compilador de C++**  
 - **Android Studio** para el desarrollo de aplicaciones móviles en Java  
-- **SQL** para la gestión de bases de datos  
+- **SQL** para la gestión de bases de datos
+
+## 📩 Contacto
+- **Correo:** juanarce45@cenyca.edu.mx
+
